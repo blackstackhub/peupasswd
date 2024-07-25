@@ -1,5 +1,5 @@
 <h1><strong>Peupasswd</strong> Advanced Password Security Software</h1>
-<p><a href="https://blackstackhub.github.io/Peupasswd" >Peupasswd</a> is an advanced password security software written in python use in generating unique password for each of each service i.e you can generate special password for each of your social media or services with just one master password; see also <a href="https://github.com/kcubeterm/neupasswd">neupasswd</a></p>
+<p><a href="https://blackstackhub.github.io/Peupasswd" >Peupasswd</a> is is a simple password security package use in generating unique password for each of each service i.e you can generate special password for each of your social media or services with just one master password; see also <a href="https://github.com/kcubeterm/neupasswd">neupasswd</a></p>
     
     
 <h2>How It Works</h2>
